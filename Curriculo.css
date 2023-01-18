@@ -1,0 +1,27 @@
+.container{
+}
+
+.personalInfo{
+    height: 220px;
+    color: #faf9fa;
+    background-color: #323232;
+}
+
+.myName{
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+    text-align: center;
+    width: 450px;
+    height: 60px;
+    border: 2px solid #d2a84b;
+}
+
+.titulo{
+    text-align: left;
+    color: #d2a84b;
+    font-size: 25px;
+}
+
+
